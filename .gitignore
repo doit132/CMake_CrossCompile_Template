@@ -1,7 +1,14 @@
-**/CMakeFiles
-**/*.cmake
-**/CMakeCache.txt
-**/Makefile
-**/bulid
-**/bin
-**/main
+build
+bin
+## IDE
+.vscode
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+# Executables
+*.exe
+*.out
+*.app
+
